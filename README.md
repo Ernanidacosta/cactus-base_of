@@ -1,5 +1,1 @@
-# cactus-base
-
-> ⚠️ **Deprecation Notice** 🏳
->
-> We are focusing our resources on building new templates that help you build a better web, because of that we're deprecating this currently working template. We care about the community so we propose if anyone wants to maintain or take stewardship over the project please contact us at [devexperience@netlify.com](mailto:devexperience@netlify.com). If you want to share anything with the team about this template, you can also fill out [this form](https://template-feedback.netlify.app/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41179a28-d53a-4343-b1c5-d1f4ce3c7d71/deploy-status)](https://app.netlify.com/sites/saideira/deploys)
